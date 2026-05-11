@@ -140,7 +140,7 @@ This project demonstrates how machine learning techniques can be used for emotio
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Jane804/NLP_Sentiment_Analysis.git
 ```
 
 ## Install Required Libraries
@@ -164,8 +164,8 @@ Open the notebook and run all cells.
 ```text
 Sentiment-Analysis/
 │
-├── sentiment_analysis.ipynb
-├── nlp_dataset.csv
+├── Sentiment_Analysis_Emotion Classification.ipynb
+├── nlp_dataset (1).csv
 ├── README.md
 ```
 
